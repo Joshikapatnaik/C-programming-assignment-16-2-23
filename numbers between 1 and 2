@@ -1,0 +1,29 @@
+#include<stdio.h>
+main()
+{
+	float n;
+	printf("the numbers between 1 and 2 are : ");
+	n=1.00;
+	while(n<=1.00)
+	{
+		printf("\n %.2f ",n);
+		n=n+0.10;
+	}
+	printf("\n %.2f",n);
+	n=n+0.10;
+	printf("\n %.2f",n);
+	n=n+0.10;
+	printf("\n %.2f",n);
+	n=n+0.10;
+	printf("\n %.2f",n);
+	n=n+0.10;
+	printf("\n %.2f",n);
+	n=n+0.10;
+	printf("\n %.2f",n);
+	n=n+0.10;
+	printf("\n %.2f",n);
+	n=n+0.10;
+	printf("\n %.2f",n);
+	n=n+0.10;
+	printf("\n %.2f",n);
+}
